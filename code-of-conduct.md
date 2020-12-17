@@ -3,6 +3,7 @@ layout: page
 title: Code of Conduct
 permalink: /code-of-conduct/
 ---
+
 # IRBUG Code of Conduct
 
 Iran BSD User Group is a venue for BSD hackers and anyone interested in BSD or
