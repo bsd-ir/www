@@ -3,8 +3,8 @@ description: Iran BSD User Group is a venue for BSD hackers and anyone intereste
 
 plugins:
   - jekyll-sitemap
- 
- collections:
+
+collections:
   wiki_fa:
     output: true
   wiki_en:
