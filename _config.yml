@@ -1,5 +1,11 @@
 title: Iran BSD User Group
 description: Iran BSD User Group is a venue for BSD hackers and anyone interested in BSD or UNIX to come together so as to share knowledge, discuss, work, make friends and hack stuff.
+
 plugins:
   - jekyll-sitemap
  
+ collections:
+  wiki_fa:
+    output: true
+  wiki_en:
+    output: true
