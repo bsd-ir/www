@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Code of Conduct
+permalink: /code-of-conduct/
 ---
 
 Iran BSD User Group is a venue for BSD hackers and anyone interested in BSD or UNIX to come together so as to share knowledge, discuss, work and hack stuff. Participants and members of this community are responsible for knowing and abiding by these rules in all meetings, seminars, mailing lists and the IRC channel :
