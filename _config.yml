@@ -6,6 +6,6 @@ plugins:
 
 collections:
   wiki_fa:
-    output: true
+    output: false
   wiki_en:
-    output: true
+    output: false
